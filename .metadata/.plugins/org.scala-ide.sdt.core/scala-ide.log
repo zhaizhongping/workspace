@@ -1,0 +1,375 @@
+2015-01-29 12:01:46,646 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 12:01:46,750 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 12:11:14,867 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 12:11:14,942 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 12:11:35,623 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.RetargettableActionAdapterFactory
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 12:12:11,115 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 12:12:30,921  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 12:12:30,922  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 12:13:10,390  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 12:13:10,391  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 12:13:29,223  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 12:13:29,223  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 12:13:37,265  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 12:13:37,266  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:14:01,719 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 13:14:01,719 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 13:14:16,875  WARN [Worker-39] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:14:16,875  WARN [Worker-39] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:16:46,691  WARN [Worker-40] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:16:46,692  WARN [Worker-40] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:16:52,312  WARN [Worker-39] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:16:52,312  WARN [Worker-39] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:19:02,194  WARN [Worker-43] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:19:02,194  WARN [Worker-43] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:19:08,893  WARN [Worker-44] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:19:08,894  WARN [Worker-44] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:19:19,083  WARN [Worker-39] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:19:19,084  WARN [Worker-39] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:19:25,867  WARN [Worker-48] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:19:25,868  WARN [Worker-48] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:20:09,423  WARN [Worker-43] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:20:09,423  WARN [Worker-43] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:20:18,524  WARN [Worker-48] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:20:18,524  WARN [Worker-48] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:20:29,581  WARN [Worker-43] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:20:29,582  WARN [Worker-43] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:23:35,476  WARN [Worker-44] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:23:35,476  WARN [Worker-44] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:23:42,385  WARN [Worker-44] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:23:42,385  WARN [Worker-44] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:24:45,394  WARN [Worker-39] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:24:45,394  WARN [Worker-39] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:25:03,560  WARN [Worker-47] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:25:03,561  WARN [Worker-47] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:31:41,512  WARN [Worker-55] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:31:41,512  WARN [Worker-55] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:34:48,705  WARN [Worker-50] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:34:48,705  WARN [Worker-50] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:38:24,563 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 13:38:24,564 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 13:38:24,565 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 13:38:28,072  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:32,103  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:34,635  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:34,635  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 99
+2015-01-29 13:38:36,168  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:36,172  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 100
+2015-01-29 13:38:36,173  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 100
+2015-01-29 13:38:37,203  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:37,204  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 101
+2015-01-29 13:38:37,205  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 101
+2015-01-29 13:38:38,737  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:38,738  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:38,738  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:38,740  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 104
+2015-01-29 13:38:39,776  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:39,777  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:39,777  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:39,779  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 106
+2015-01-29 13:38:39,779  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 106
+2015-01-29 13:38:42,317  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:42,321  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:42,324  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:42,327  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 113
+2015-01-29 13:38:42,327  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 113
+2015-01-29 13:38:43,375  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:38:43,376  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:43,377  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:38:43,378  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-01-29 13:38:43,379  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-01-29 13:40:25,039  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 90
+2015-01-29 13:40:25,040  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:40:25,041  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 95
+2015-01-29 13:40:25,043  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-01-29 13:40:25,044  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 128
+2015-01-29 13:40:44,021  WARN [Worker-62] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:40:44,022  WARN [Worker-62] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 13:55:36,143  WARN [Worker-80] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 13:55:36,144  WARN [Worker-80] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:16:57,858  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 135
+2015-01-29 15:16:58,892  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 136
+2015-01-29 15:16:58,892  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 136
+2015-01-29 15:16:59,922  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 114
+2015-01-29 15:17:01,456  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 137
+2015-01-29 15:17:01,458  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 137
+2015-01-29 15:17:02,493  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 138
+2015-01-29 15:17:02,493  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 138
+2015-01-29 15:17:05,031  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 142
+2015-01-29 15:17:05,032  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 142
+2015-01-29 15:17:09,072  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 143
+2015-01-29 15:17:09,073  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 143
+2015-01-29 15:17:11,111  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 165
+2015-01-29 15:17:11,111  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 165
+2015-01-29 15:17:13,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 170
+2015-01-29 15:17:13,177  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 170
+2015-01-29 15:17:14,216  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 172
+2015-01-29 15:17:14,217  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 172
+2015-01-29 15:17:15,253  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 174
+2015-01-29 15:17:15,253  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 174
+2015-01-29 15:17:16,790  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 175
+2015-01-29 15:17:16,791  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 175
+2015-01-29 15:17:18,345  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 179
+2015-01-29 15:17:18,348  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 179
+2015-01-29 15:17:19,385  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 180
+2015-01-29 15:17:19,385  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 180
+2015-01-29 15:17:23,923  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 181
+2015-01-29 15:17:23,924  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 181
+2015-01-29 15:17:26,462  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 186
+2015-01-29 15:17:26,463  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 186
+2015-01-29 15:17:27,497  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 185
+2015-01-29 15:17:27,497  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 185
+2015-01-29 15:17:28,531  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 186
+2015-01-29 15:17:28,532  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 186
+2015-01-29 15:17:30,067  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 188
+2015-01-29 15:17:30,067  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 188
+2015-01-29 15:18:35,542  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 189
+2015-01-29 15:18:35,543  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 189
+2015-01-29 15:18:47,092  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 194
+2015-01-29 15:18:47,092  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 194
+2015-01-29 15:18:56,764  WARN [Worker-129] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:18:56,764  WARN [Worker-129] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:25:00,426  WARN [Worker-122] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:25:00,426  WARN [Worker-122] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:25:31,259  WARN [Worker-136] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:25:31,259  WARN [Worker-136] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:25:54,345  WARN [Worker-122] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:25:54,346  WARN [Worker-122] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:26:31,935  WARN [Worker-137] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:26:31,935  WARN [Worker-137] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:26:44,456 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 15:26:44,456 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 15:26:44,456 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 15:26:47,130  WARN [Worker-136] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:26:47,131  WARN [Worker-136] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:30:54,469  WARN [Worker-139] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:30:54,470  WARN [Worker-139] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:32:33,073  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 286
+2015-01-29 15:32:36,652  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 286
+2015-01-29 15:32:37,662  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 286
+2015-01-29 15:32:39,210  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 287
+2015-01-29 15:32:41,251  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 288
+2015-01-29 15:32:41,252  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 288
+2015-01-29 15:32:42,291  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 273
+2015-01-29 15:32:59,328  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 273
+2015-01-29 15:35:14,102 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 15:35:14,103 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-01-29 15:35:50,910  WARN [Worker-145] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:35:50,910  WARN [Worker-145] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 15:36:24,341  WARN [Worker-143] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 15:36:24,341  WARN [Worker-143] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:11:12,830  WARN [Worker-172] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:11:12,830  WARN [Worker-172] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:12:00,805  WARN [Worker-155] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:12:00,805  WARN [Worker-155] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:12:24,610  WARN [Worker-177] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:12:24,625  WARN [Worker-177] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:12:34,229  WARN [Worker-157] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:12:34,229  WARN [Worker-157] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:55:53,161  WARN [Worker-178] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:55:53,170  WARN [Worker-178] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:56:03,924  WARN [Worker-163] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:56:03,924  WARN [Worker-163] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:56:39,599  WARN [Worker-181] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:56:39,599  WARN [Worker-181] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 16:59:04,082  WARN [Worker-178] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 16:59:04,083  WARN [Worker-178] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 17:14:29,115  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 159
+2015-01-29 17:17:02,700  WARN [Worker-195] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 17:17:02,700  WARN [Worker-195] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 17:25:04,224  WARN [Worker-205] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 17:25:04,224  WARN [Worker-205] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 17:25:35,119  WARN [Worker-198] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 17:25:35,120  WARN [Worker-198] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 17:26:15,245  WARN [Worker-198] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 17:26:15,246  WARN [Worker-198] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 17:26:40,090  WARN [Worker-203] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 17:26:40,091  WARN [Worker-203] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 18:22:07,782  WARN [Worker-254] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 18:22:07,782  WARN [Worker-254] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 18:22:52,436  WARN [Worker-256] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 18:22:52,436  WARN [Worker-256] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 21:00:32,151 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:00:32,272 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:00:37,170 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:00:38,034 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.RetargettableActionAdapterFactory
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:00:38,691  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 21:00:38,710  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 21:20:00,121 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:20:00,191 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:20:04,086 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:20:04,711  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 21:20:04,716  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 21:20:06,068 ERROR [main] - System.err - [org.eclipse.jdt.debug.ui] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.debug.ui.actions.RetargettableActionAdapterFactory
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:24:11,805 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:24:11,882 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:24:15,914 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:24:16,559  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 21:24:16,561  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 21:34:20,325 ERROR [main] - System.err - [org.eclipse.jdt.launching] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.launching.JavaRuntime
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:34:20,402 ERROR [main] - System.err - [org.eclipse.debug.core] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.debug.core.ILaunchesListener
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:34:26,809 ERROR [main] - System.err - [org.eclipse.jdt.junit] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type org.eclipse.jdt.internal.junit.ui.JUnitQuickFixProcessor
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2015-01-29 21:34:27,636  WARN [Worker-2] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 21:34:27,638  WARN [Worker-2] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 23:17:41,413  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 23:17:41,415  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-29 23:27:27,673  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-29 23:27:27,695  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 00:18:47,502  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 00:18:47,502  WARN [org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 00:18:47,502  WARN [main] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 00:18:47,502  WARN [Worker-1] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 00:18:47,503  WARN [org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 00:18:47,503  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 00:18:47,503  WARN [main] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 00:18:47,503  WARN [Worker-1] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 00:18:50,481  WARN [Worker-6] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 00:18:50,481  WARN [Worker-6] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 15:15:23,140  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 15:15:23,231  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-01-30 16:33:22,672  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-01-30 16:33:22,763  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-02-03 17:44:52,681  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-02-03 17:44:52,727  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-11 14:19:27,497  WARN [Worker-1] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-11 14:19:27,555  WARN [Worker-1] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-11 14:28:55,116  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-11 14:28:55,127  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-11 15:47:57,109  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-11 15:47:57,127  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-11 15:51:19,156  WARN [Worker-6] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-11 15:51:19,157  WARN [Worker-6] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-13 10:47:09,381  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-13 10:47:09,411  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-13 10:55:48,122  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-13 10:55:48,125  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-13 11:57:04,046  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-13 11:57:04,088  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-13 18:39:22,079 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,095 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,172 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,172 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,260 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,260 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,367 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,367 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-13 18:39:22,461 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2015-08-14 10:49:23,253  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-14 10:49:23,322  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-31 14:19:18,274  WARN [Worker-1] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-31 14:19:18,320  WARN [Worker-1] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-31 14:38:02,267  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-31 14:38:02,286  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-08-31 15:19:36,902  WARN [Worker-1] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-08-31 15:19:36,932  WARN [Worker-1] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-09-17 18:18:48,792  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-09-17 18:18:48,849  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-09-17 18:24:34,270  WARN [Worker-7] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-09-17 18:24:34,270  WARN [Worker-7] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-09-18 10:55:45,717  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-09-18 10:55:45,763  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-09-18 13:35:41,706  WARN [Worker-4] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-09-18 13:35:41,725  WARN [Worker-4] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-10-30 12:58:01,139  WARN [Worker-2] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-10-30 12:58:01,297  WARN [Worker-2] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-10-30 14:40:17,794  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-10-30 14:40:17,794  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-11-15 15:28:18,424  WARN [main] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-11-15 15:28:18,443  WARN [main] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-11-16 11:12:01,797  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-11-16 11:12:01,844  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-11-20 13:45:43,666  WARN [Worker-2] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-11-20 13:45:43,686  WARN [Worker-2] - ScalaProject - Project zhai_scala runs on platform default installation.
+2015-12-09 23:29:41,583  WARN [Worker-1] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2015-12-09 23:29:41,618  WARN [Worker-1] - ScalaProject - Project zhai_scala runs on platform default installation.
+2016-01-12 01:09:29,972  WARN [Worker-0] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2016-01-12 01:09:29,973  WARN [Worker-0] - ScalaProject - Project zhai_scala runs on platform default installation.
+2016-01-12 01:09:34,339  WARN [Worker-1] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2016-01-12 01:09:34,340  WARN [Worker-1] - ScalaProject - Project zhai_scala runs on platform default installation.
+2016-01-12 01:09:40,632  WARN [Worker-8] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2016-01-12 01:09:40,633  WARN [Worker-8] - ScalaProject - Project zhai_scala runs on platform default installation.
+2016-01-20 14:00:56,644  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2016-01-20 14:00:56,646  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.
+2016-01-20 14:03:32,250  WARN [Worker-3] - ScalaProject - Project zhai_scala has platform default sourceLevel.
+2016-01-20 14:03:32,251  WARN [Worker-3] - ScalaProject - Project zhai_scala runs on platform default installation.

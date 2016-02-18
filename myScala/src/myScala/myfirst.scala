@@ -1,0 +1,5 @@
+package myScala
+
+object myfirst {
+
+}
